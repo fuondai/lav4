@@ -1,0 +1,6 @@
+C:\Users\dadad\source\repos\Lab4\obj\Debug\net8.0-windows\Lab4.Server.resources
+C:\Users\dadad\source\repos\Lab4\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\dadad\source\repos\Lab4\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadad\source\repos\Lab4\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\dadad\source\repos\Lab4\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\dadad\source\repos\Lab4\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache

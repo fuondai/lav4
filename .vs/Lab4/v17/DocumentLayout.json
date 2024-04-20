@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dadad\\source\\repos\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5B929-C5FA-455C-AB77-508A64CD7440}|Server.csproj|c:\\users\\dadad\\source\\repos\\lab4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB5B929-C5FA-455C-AB77-508A64CD7440}|Server.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB5B929-C5FA-455C-AB77-508A64CD7440}|Server.csproj|c:\\users\\dadad\\source\\repos\\lab4\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EAB5B929-C5FA-455C-AB77-508A64CD7440}|Server.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE01139A-E021-4E14-BFFF-E7E70CC92A98}|..\\Server\\Client.csproj|c:\\users\\dadad\\source\\repos\\server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE01139A-E021-4E14-BFFF-E7E70CC92A98}|..\\Server\\Client.csproj|c:\\users\\dadad\\source\\repos\\server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\dadad\\source\\repos\\Lab4\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "C:\\Users\\dadad\\source\\repos\\Lab4\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:08:44.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dadad\\source\\repos\\Lab4\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "C:\\Users\\dadad\\source\\repos\\Lab4\\Server.cs [Design]",
+              "RelativeToolTip": "Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:07:39.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\dadad\\source\\repos\\Server\\Client.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Client.cs",
+              "ToolTip": "C:\\Users\\dadad\\source\\repos\\Server\\Client.cs",
+              "RelativeToolTip": "..\\Server\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:35:44.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dadad\\source\\repos\\Server\\Client.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Client.cs",
+              "ToolTip": "C:\\Users\\dadad\\source\\repos\\Server\\Client.cs [Design]",
+              "RelativeToolTip": "..\\Server\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:33:50.073Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
