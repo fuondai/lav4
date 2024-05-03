@@ -34,7 +34,7 @@
               "RelativeDocumentMoniker": "Server.cs",
               "ToolTip": "C:\\Users\\dadad\\source\\repos\\Lab4\\Server.cs",
               "RelativeToolTip": "Server.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFQAAAA0AAAA",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAuwG4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T12:08:44.133Z",
               "EditorCaption": ""
@@ -61,8 +61,7 @@
               "RelativeToolTip": "..\\Server\\Client.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T11:35:44.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T11:35:44.645Z"
             },
             {
               "$type": "Document",
@@ -75,6 +74,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T11:33:50.073Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 722,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
